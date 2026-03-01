@@ -1,20 +1,20 @@
-#TASK 02: Competitive Analysis (SWOT)
+# TASK 02: Competitive Analysis (SWOT)
 
-##Selected App:Swiggy
+## Selected App:Swiggy
 
-##Competitors:
+## Competitors:
 
 01.Zomata
 
 02.Uber Eats(or ONDC/local food apps)
 
 
-##Introduction:
+## Introduction:
 Swiggy is an online food delivery platform that connects users with restaurants.It allows customers to browse menus,place orders,and track deliveries in real time.
 
-##SWOT Analysis of Swiggy
+## SWOT Analysis of Swiggy
 
-*Strengths*
+**Strengths** 
 
 .Strong band recognition
 
@@ -24,7 +24,7 @@ Swiggy is an online food delivery platform that connects users with restaurants.
 
 .User-friendly mobile app
 
-*weakness*
+**weakness**
 
 .High delivery charges
 
@@ -32,7 +32,7 @@ Swiggy is an online food delivery platform that connects users with restaurants.
 
 .Custom complaints during peak hours
 
-*Opportunities*
+**Opportunities**
 
 .Expansion into smaller cities
 
@@ -40,7 +40,7 @@ Swiggy is an online food delivery platform that connects users with restaurants.
 
 .AI-based personalized recommendations
 
-*Threats*
+**Threats**
 
 .Strong competion from Zomato
 
@@ -49,11 +49,11 @@ Swiggy is an online food delivery platform that connects users with restaurants.
 .Changing government regulations
 
 
-##Feature Gap:
+## Feature Gap:
 
 Swiggy lacks a transparent breakdown of surge pricing explation compared to competitors.Adding a clear pricing explanation feature can improve user trust.
 
-##Conclusion:
+## Conclusion:
 
 Swiggy has established itself as a strong player in the food delivery market due to its wide restaurant network,strong brand presence,and User-friendly interface.However,increasing competition and pricing challenges highlight the need for continuos innovation.By addressing feature gaps such as transparent pricing explanations and improving customer trust,Swiggy can strengthen its competitive position and enhance user satisfication
 
